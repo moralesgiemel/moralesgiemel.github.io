@@ -1,0 +1,32 @@
+.contain {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-width {
+    width: 100px;
+    margin: 10px;
+    /* border-radius: 10%; */
+}
+
+.btn-width:hover {
+    cursor: pointer;
+}
+
+#angry-bear, #happy-bear {
+    display: none;
+}
+
+#yeheyyy, #yeheyyy-bear {
+    display: none;
+}
